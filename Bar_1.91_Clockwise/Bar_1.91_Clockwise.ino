@@ -267,7 +267,7 @@ void setup() {
   motor[1].initialize(25, 26);
   motor[2].initialize(27, 14);
   motor[3].initialize(13, 23);
-  motor[4].initialize(21, 3);
+  motor[4].initialize(1, 3);
   motor[5].initialize(19, 18);
   motor[6].initialize( 5, 17);
   motor[7].initialize(16, 4);
